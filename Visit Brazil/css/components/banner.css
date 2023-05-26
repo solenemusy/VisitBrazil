@@ -1,0 +1,28 @@
+.banner{
+	background-image: url(../../images/banner.jpeg);
+	color:skyblue;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+	
+}
+
+banner-with-flat-filter {
+  background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('images/banner.jpg');
+}
+
+
+.banner h1 {
+	font-size: 50px;
+	color: skyblue;
+	padding-top: 100px;
+}
+
+.banner h2 {
+	color: black;
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 0.8;
+	margin-bottom: 40px;
+	padding-bottom: 100px;
+}

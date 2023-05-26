@@ -1,0 +1,8 @@
+.btn-green{
+	background-color: darkgreen;
+	padding:15px 20px;
+	border-radius: 4px;
+	color: whitesmoke;
+	font-weight: bold;
+	font-family: 'Payfair', sans-serif;
+}
